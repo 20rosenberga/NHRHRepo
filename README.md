@@ -42,7 +42,9 @@ Now open readme.md and type all there is to know about your repo into the readme
 Proceed with these commands
 
 $ git add .
+
 $ git commit -m "First commit"
+
 $ git push origin master
 
 Your repo is now set up!
