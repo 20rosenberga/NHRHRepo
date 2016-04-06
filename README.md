@@ -8,4 +8,9 @@ Find your classmate's git pages on this document:
 
 Note that git is being used to encourage students to collaborate and work together.
 
+Email me with any questions about code or computers or challenges:
+
+nathaniel.c.moon@gmail.com
+
+
 Happy coding!
