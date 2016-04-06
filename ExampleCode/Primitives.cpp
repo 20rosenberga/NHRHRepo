@@ -1,3 +1,4 @@
+
 /*
     Example code for primitive data types and console input/output
 
@@ -110,8 +111,6 @@ int main()
         "\" means the next character is a special character
                 \n makes a new line
                 \t makes a tab
-
-
     */
 
     cout << "Hi there!" << endl;

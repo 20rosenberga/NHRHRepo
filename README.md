@@ -12,5 +12,10 @@ Email me with any questions about code or computers or challenges:
 
 nathaniel.c.moon@gmail.com
 
+For those of you with Windows machines:
+Download Visual Studio Community for free
+
+For those of you with Mac or Linux machines:
+Download Xcode from the app store
 
 Happy coding!
