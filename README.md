@@ -22,6 +22,7 @@ Download Xcode from the app store
 
 
 To use github:
+
 Everyone should have a repo folder somewhere on their machines/network drives
 
 --------------------------------------------------------------------------------
@@ -29,16 +30,21 @@ Everyone should have a repo folder somewhere on their machines/network drives
 IF YOU HAVE NOT ALREADY SET UP THE REPOSITORY:
 
 Create a new repository on github.com with your profile
+
 Copy the url of your repo onto your clipboard
 
 Go into git bash navigate to the repo folder
 
 Type in the following commands:
+
 $ git init
+
 $ git add remote origin <your repository url>
+
 $ touch readme.md
 
 Now open readme.md and type all there is to know about your repo into the readme.md file and save it
+
 Proceed with these commands
 
 $ git add .
@@ -52,11 +58,12 @@ If you have trouble then email me
 
 --------------------------------------------------------------------------------
 
-To use your repository:
+TO USE YOUR REPOSITORY:
 
 Open git bash and navigate to your repo folder and use these commands to do the following things
 
 // Use this command to pull from your remote repository and get all updated code
+
 // into your repo folder
 
 $ git pull origin master
