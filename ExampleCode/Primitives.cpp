@@ -62,7 +62,10 @@ int main()
         Here is the format the C++ follows:
             <data type> <name of variable> = <value>;
 
-        This is called declaration and assignment.  
+        This is called declaration and assignment. 
+     
+        ASSIGNMENT OCCURS FROM RIGHT TO LEFT.
+     
     */
 
     // You can also just declare a variable
