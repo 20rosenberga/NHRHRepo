@@ -41,15 +41,16 @@ int main()
     
     // Now output everything
     
+    cout << endl;
     cout << "Here is all of your information:" << endl;
     cout << "\tInitials: " << firstIntial << secondInitial << endl;
     cout << "\tBest Time: " << bestTime << " seconds" << endl;
     cout << "\tAge: " << age << " years old" << endl;
     
     // Use your Google foo to figure this one out
-    cout << "Will compete in next meet: " << (willCompete ? "Yes":"No") << endl;
+    cout << "\tWill compete in next meet: " << (willCompete ? "Yes":"No") << endl;
     
-    cout << "Number of teammates: " << numTeammates << endl;
+    cout << "\tNumber of teammates: " << numTeammates << endl;
     
     cout << endl;
     
