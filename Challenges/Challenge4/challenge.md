@@ -16,4 +16,6 @@ The user should start with $30 in their wallet and have the choice of buying:
 
 The user should only be able to choose a single item from the list.  If the item exceeds the balance of their wallet, then they cannot buy it.  
 
+Make sure you print the user's remaining money to the screen afterwards.
+
 Good luck!
