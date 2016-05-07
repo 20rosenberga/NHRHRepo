@@ -18,4 +18,6 @@ The user should only be able to choose a single item from the list.  If the item
 
 Make sure you print the user's remaining money to the screen afterwards.
 
+Check out the example code for decision making if you are having trouble.
+
 Good luck!
